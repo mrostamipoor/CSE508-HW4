@@ -1,4 +1,6 @@
-# -CSE508-HW4
+# Network Security Project: CSE508-HW4
+
+# Description
 In this assignment you will develop a "plugboard" proxy for adding an extra
 layer of protection to publicly accessible network services. Your program will
 be written in Go using the Crypto library.
